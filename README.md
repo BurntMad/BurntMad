@@ -5,3 +5,9 @@
 |                                Als Junior-Softwareentwickler mit Erfahrung in Angular, HTML, CSS, TypeScript suche ich nach grösseren Herausforderungen und Weiterbildungsmöglichkeiten im IT-Bereich.                                |                                                                                                                                                                          |                                                           |                                                                                                                                                                          |
 
 ---
+### Projects
+
+RSE KomponenteRSE 
+Oct 2022 - Jan 2023 Oct 2022 - Jan 2023
+
+Entwickelte die Konfigurationsverwaltungskomponente in Angular für das myTAS Produkt. Die Komponente ermöglicht Filterung, Suche und Geräte-Upload-Funktionalität.
